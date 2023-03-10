@@ -1,0 +1,62 @@
+#kolobok2{
+    background-color: yellow;
+    position: relative;
+    width: 400px;
+    height: 400px;
+    margin: 0px auto;
+   border-radius: 200px;
+    }
+
+ .eye1{
+    background-color: white;
+    position: absolute;
+    left: 80px;
+	top: 80px;
+	width: 80px;
+	height: 80px;
+	border-radius: 40px;
+    z-index: 5;
+ }
+
+ .eye2{
+    background-color: white;
+    position: absolute;
+    right: 80px;
+	top: 80px;
+	width: 80px;
+	height: 80px;
+	border-radius: 40px;
+    z-index: 4;
+ }
+
+ .noise{
+    background-color: white;
+    position: absolute;
+    left: 160px;
+	top: 210px;
+	width: 70px;
+	height: 70px;
+    border-radius: 35px;
+    z-index: 3;
+ }
+
+ .mouth1{
+	background-color: white;
+	position: absolute;
+	left: 100px;
+	top: 155px;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	z-index: 1;
+}
+.mouth2{
+	background-color: yellow;
+	position: absolute;
+	left: 50px;
+	top: 30px;
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	z-index: 2;
+}

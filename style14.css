@@ -1,0 +1,24 @@
+#fixed{
+	position: fixed;
+	left: 0px;
+	bottom: 0px; 
+	width: 100%;
+	height: 50px;
+	background-color: rgb(207, 49, 75);
+	text-align: center;
+	line-height: 50px;
+	font-size: 21px;
+	color: white;
+	border-top: 1px solid rgb(183, 21, 48);
+}
+#text{
+	width: 600px;
+	margin: 10px auto 60px auto;
+	padding: 20px;
+	border: 1px solid rgb(112, 42, 54);
+	border-radius: 20px 20px 0px 0px;
+}
+h1{
+	margin: 0px; color: 
+	rgb(205, 67, 90)
+}
